@@ -1,3 +1,9 @@
+countdowntimer (0.6-1) unstable; urgency=low
+
+  * Initial Maemo Leste version
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Mon, 30 Mar 2020 20:59:08 +0200
+
 countdowntimer (0.5-2) unstable; urgency=low
 
   * Added kinetic scrolling to help pages
