@@ -114,7 +114,7 @@ void Settings::on_pushButton_Apply_clicked()
 
 void Settings::on_pushButton_Sound_clicked()
 {
-    QString location = QDesktopServices::storageLocation(QDesktopServices::MusicLocation);
+    QString location = QStandardPaths::standardLocations(QStandardPaths::StandardLocation::MusicLocation).first();
     QString fileName = QFileDialog::getOpenFileName(this,tr("Open Sound"), location, tr("Audio Files (*.mp3 *.wav *.aac)"));
     mSettings.setValue("soundFile", fileName);
     mediaObject->setCurrentSource(Phonon::MediaSource(mSettings.value("soundFile").toString()));
