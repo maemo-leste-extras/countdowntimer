@@ -107,7 +107,7 @@
       <property name="minimumSize">
        <size>
         <width>70</width>
-        <height>0</height>
+        <height>70</height>
        </size>
       </property>
       <property name="text">
@@ -117,6 +117,12 @@
     </item>
     <item row="2" column="0">
      <widget class="QPushButton" name="pushButton_reset">
+      <property name="minimumSize">
+       <size>
+        <width>270</width>
+        <height>70</height>
+       </size>
+      </property>
       <property name="text">
        <string>Reset</string>
       </property>
@@ -182,7 +188,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>20</height>
+     <height>13</height>
     </rect>
    </property>
    <property name="contextMenuPolicy">
@@ -193,8 +199,8 @@
      <rect>
       <x>545</x>
       <y>100</y>
-      <width>148</width>
-      <height>115</height>
+      <width>81</width>
+      <height>80</height>
      </rect>
     </property>
     <property name="contextMenuPolicy">

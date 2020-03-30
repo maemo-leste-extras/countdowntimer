@@ -1,0 +1,3 @@
+- Port settings.ui, help.ui and about.ui to Qt5 and dynamic resolutions
+- Make sure that settings.ui to be a widget/dialog, not a new window
+- Support application menu buttons
