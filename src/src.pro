@@ -1,6 +1,6 @@
-QT += phonon
-TARGET = countdowntimer
+QT += gui widgets phonon4qt5
 TEMPLATE = app
+TARGET = countdowntimer
 SOURCES += qtmain.cpp \
     settings.cpp \
     mainwindow.cpp \
