@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.3
+Type=Application
+Name=Countdown Timer
+Exec=/usr/bin/countdowntimer
+Icon=countdowntimer
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

@@ -1,0 +1,70 @@
+countdowntimer (0.5-2) unstable; urgency=low
+
+  * Added kinetic scrolling to help pages
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Fr, 15 Jan 2010 14:20:00 +0200
+
+countdowntimer (0.5-1) unstable; urgency=low
+
+  * Fixed UI for PR1.1 firmware
+  * Fixed bug report link
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Th, 14 Jan 2010 13:41:00 +0200
+
+countdowntimer (0.4-5) unstable; urgency=low
+
+  * Fixed last second
+  * Added Help
+  * Fixed sound stop
+  * Optified
+
+ -- Sascha Makela <sascha.makela@gmail.com>  We, 13 Jan 2010 14:11:00 +0200
+
+countdowntimer (0.4-4) unstable; urgency=low
+
+  * Sound is played in Settigns
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Tu, 12 Jan 2010 23:29:00 +0200
+
+countdowntimer (0.4-3) unstable; urgency=low
+
+  * Sound is played in Settigns
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Tu, 12 Jan 2010 21:07:00 +0200
+
+countdowntimer (0.4-2) unstable; urgency=low
+
+  * Added about and donate
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Tu, 12 Jan 2010 19:00:00 +0200
+
+countdowntimer (0.4-1) unstable; urgency=low
+
+  * Changed from form to mainwindow
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Tu, 12 Jan 2010 18:23:00 +0200
+
+countdowntimer (0.3-4) unstable; urgency=low
+
+  * Made changes to description
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Su, 10 Jan 2010 22:17:00 +0200
+
+countdowntimer (0.3-3) unstable; urgency=low
+
+  * Made changes to src.pro
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Su, 10 Jan 2010 21:17:00 +0200
+
+countdowntimer (0.3-2) unstable; urgency=low
+
+  * Added Application Manager icon
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Su, 10 Jan 2010 19:16:00 +0200
+
+countdowntimer (0.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Sascha Makela <sascha.makela@gmail.com>  Su, 10 Jan 2010 19:00:00 +0200
+

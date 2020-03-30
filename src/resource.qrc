@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>docs/countdown.html</file>
+        <file>docs/countup.html</file>
+        <file>docs/main.html</file>
+        <file>docs/presets.html</file>
+        <file>docs/sounds.html</file>
+    </qresource>
+</RCC>
