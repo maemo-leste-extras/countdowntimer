@@ -6,10 +6,10 @@
 #include <QMessageBox>
 #include <qdatetime.h>
 #include <QSettings>
-#include <Phonon/AudioOutput>
-#include <Phonon/MediaObject>
-#include <Phonon/Path>
-#include <Phonon/BackendCapabilities>
+#include <phonon/Phonon/AudioOutput>
+#include <phonon/Phonon/MediaObject>
+#include <phonon/Phonon/Path>
+#include <phonon/Phonon/BackendCapabilities>
 #include <QMenuBar>
 #include <QMenu>
 #include <QAction>

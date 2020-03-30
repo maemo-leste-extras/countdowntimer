@@ -2,7 +2,7 @@
  * Created: 12/28/09-09:38:47
  * Author: Sascha
  */
-#include <QtGui/QApplication>
+#include <QApplication>
 #include "mainwindow.h"
 
 int main(int argc, char *argv[])

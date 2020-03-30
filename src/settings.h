@@ -4,10 +4,10 @@
 #include <QDialog>
 #include <QSettings>
 #include <QMessageBox>
-#include <Phonon/AudioOutput>
-#include <Phonon/MediaObject>
-#include <Phonon/Path>
-#include <Phonon/BackendCapabilities>
+#include <phonon/Phonon/AudioOutput>
+#include <phonon/Phonon/MediaObject>
+#include <phonon/Phonon/Path>
+#include <phonon/Phonon/BackendCapabilities>
 
 
 namespace Ui {
