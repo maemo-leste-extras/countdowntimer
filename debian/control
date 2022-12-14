@@ -5,7 +5,6 @@ Maintainer: Merlijn Wajer <merlijn@wizzup.org>
 Build-Depends: debhelper (>= 5),
     qtbase5-dev,
     libphonon4qt5-dev,
-    qt5-default,
 Standards-Version: 3.7.3
 Homepage: https://github.com/maemo-leste-extras/countdowntimer
 
