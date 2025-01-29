@@ -1,3 +1,9 @@
+countdowntimer (0.6.1-2) unstable; urgency=low
+
+  * Build fixes for phonon
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Wed, 29 Jan 2025 18:13:36 +0100
+
 countdowntimer (0.6-2) unstable; urgency=low
 
   * Modernise debian/rules
